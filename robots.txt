@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://lekedazeed.urbanek.works/sitemap.xml
